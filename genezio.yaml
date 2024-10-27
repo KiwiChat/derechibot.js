@@ -4,7 +4,7 @@ frontend:
     scripts:
         build: npm install
         deploy: npm install
-    subdomain: derechibot
-name: derechibot
-region: us-east-1
+    subdomain: ilog
+name: ilog
+region: eu-central-1
 yamlVersion: 2
